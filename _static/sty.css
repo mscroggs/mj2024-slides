@@ -41,6 +41,7 @@ height: 100%;
 .icon {font-family:chalkdust_icon_fontregular; font-weight:normal;color:#DDDDDD;padding-right:2vh}
 .icon.twitter {color:#1D9BF0}
 .icon.mastodon {color:#6364FF}
+.icon.bluesky {color:#1185FE}
 
 img.top-half {position:absolute;height:48vh;top:1vh;left:50vw;transform:translate(-50%,0);}
 img.full-slide {position:absolute;height:98vh;top:1vh;left:50vw;transform:translate(-50%,0);}
