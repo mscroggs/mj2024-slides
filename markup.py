@@ -1,5 +1,6 @@
 def to_html(page):
     page = page.replace("<title>", "<div class='title'>")
+    page = page.replace("<title font=\"databet\">", "<div class='title databet'>")
     page = page.replace("</title>", "</div>")
 
     page = page.replace("<author>", "<div class='author'>")

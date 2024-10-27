@@ -25,6 +25,14 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'databetsans';
+    src: url('databet_sans-webfont.woff2') format('woff2'),
+         url('databet_sans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 /* general */
 
 html{height: 100%;font-size:3vh;font-family:ralewaysemibold}
@@ -64,3 +72,5 @@ img.right-half {position:absolute;width:48vw;right:1vw;top:50vh;transform:transl
 .final.slide {background: linear-gradient(to bottom, #FFFFFF 0%, #FFFFFF 50%, #000000 50%, #000000 100%);color:#FFFFFF}
 .final.slide .title {text-align:center;font-size:10vh;font-family:ralewaysemibold;position:absolute;top:55vh;left:10vw;right:10vw}
 .final.slide .author {font-size:5vh;font-family:ralewaysemibold;position:absolute;top:70vh;left:35vw;right:35vw;text-align:center}
+
+.slide .title.databet {font-family:databetsans;font-size:20vh;top:5vh}
