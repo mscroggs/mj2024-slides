@@ -74,3 +74,4 @@ img.right-half {position:absolute;width:48vw;right:1vw;top:50vh;transform:transl
 .final.slide .author {font-size:5vh;font-family:ralewaysemibold;position:absolute;top:70vh;left:35vw;right:35vw;text-align:center}
 
 .slide .title.databet {font-family:databetsans;font-size:20vh;top:5vh}
+.databet {font-family:databetsans;font-size:130%}
